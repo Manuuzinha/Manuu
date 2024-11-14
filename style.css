@@ -5,3 +5,9 @@ body{
     font-family: "Itim", cursive;
     margin-bottom: 100px;
 }
+header{
+    border-bottom: 3px solid papayawhip;
+    padding: 20px;
+    color: blanchedalmond;
+    font-size: 35px;
+}
